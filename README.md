@@ -58,7 +58,6 @@ Les méthodes de boosting se sont révélées globalement plus performantes que 
 ## Contenu du dépôt
 - `notebooks/Fin.ipynb` : notebook principal du projet  
 - `data/` : données utilisées (ou instructions pour les obtenir si non incluses)  
-- `figures/` : graphiques générés pour l’analyse  
 - `requirements.txt` : dépendances nécessaires à l’exécution du projet  
 
 ---
